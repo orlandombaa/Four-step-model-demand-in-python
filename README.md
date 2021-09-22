@@ -16,5 +16,5 @@ The sub-models are:
 
 Much more detail information can be found in my PhD thesis in the section of modelling. 
 
-The data contains in the folder input data is the neccesary to generate all the outputs and SM (Step Model). The code contains information about the tasks in the code, and a more detail explanation is in the followin file: 
+The data contains in the folder input data is the neccesary to generate all the outputs and SM (Step Model). The code contains information about the tasks in the code, and a more detail explanation is in the following file: 
 
