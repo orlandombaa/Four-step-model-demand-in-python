@@ -7,4 +7,12 @@ The general structure of the fourt step model is represnted in the following fig
 ![4](https://user-images.githubusercontent.com/48104481/134217296-24ea73a7-c393-48fb-9e1d-bbfa38641594.png)
 
 
-The code presented the case of and alternative public transport network that operates in Guadalajara Mexico. 
+The sub-models are:  
+- Trip generation: this estimates the total number of trips generate and attracts by every zone 
+- Distribution:  it estimates the spatial distribution of the total number of trips per zone to the rest of the zones 
+- Modal split: this estimates the percentage distribution of evey mode available  
+- Network assignment: this sub-model assigns trips to the road network or public transport network. 
+
+
+Much more detail information can be found in my PhD thesis in the section of modelling. 
+
