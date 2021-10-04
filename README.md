@@ -14,7 +14,6 @@ The sub-models are:
 - Network assignment: this sub-model assigns trips to the road network or public transport network. 
 
 
-Much more detail information can be found in my PhD thesis in the section of modelling. 
+Much more detail information can be found in my PhD thesis in the section of modelling.
 
-The data contains in the folder input data is the neccesary to generate all the outputs and SM (Step Model). The code contains information about the tasks in the code, and a more detail explanation is in the following file: 
 
